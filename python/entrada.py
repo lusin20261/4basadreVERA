@@ -1,0 +1,5 @@
+a = input ("cual es tu nombre:")
+b = input ("cuantos animales tienes:")
+c = input ("cual es tu animal favorito:")
+d = input ("cual es tu color favorito:")
+print ("Hola",a,"   cuantos animales tienes",b,"ami tanbien megusta el",c,"tambien me gusta el",d, "es bien bonito los colores")
